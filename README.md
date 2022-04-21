@@ -41,7 +41,7 @@ pyplot.legend()
 ```
 
 ## Output:
-![binary classification plot](XXX.png)
+<img width="320" alt="EX02 Binary classification" src="https://user-images.githubusercontent.com/75235747/164511096-17a5f99e-93ac-44c8-9727-87bc78b61097.png">
 
 
 ## Result:
